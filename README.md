@@ -18,7 +18,8 @@ A task management utility built in Python to help users organize, track, and com
 1. Confirm that Python is installed and configured in your system environment path.
 2. Download or clone this workspace repository locally.
 3. If using the archive, extract the files from `todo_app.zip`.
-4. Open your terminal or console terminal inside the extracted directory.
-5. Run the entry-point script (e.g., `main.py` or the primary driver file inside the folder):
+4. Open your terminal or console terminal inside the root directory.
+5. Execute the primary application file by running:
    ```bash
-   python main.py
+   cd todo_app
+   python todo_app.py
